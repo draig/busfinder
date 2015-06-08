@@ -1,0 +1,15 @@
+src/main/webapp/resources/node_modules/jquery
+!src/main/webapp/resources/node_modules/jquery/dist/jquery.js
+
+src/main/webapp/resources/node_modules/director
+!src/main/webapp/resources/node_modules/director/build/director.js
+
+src/main/webapp/resources/node_modules/handlebars
+!src/main/webapp/resources/node_modules/handlebars/handlebars.js
+
+src/main/webapp/resources/node_modules/todomvc-app-css
+!src/main/webapp/resources/node_modules/todomvc-app-css/index.css
+
+src/main/webapp/resources/node_modules/todomvc-common
+!src/main/webapp/resources/node_modules/todomvc-common/base.js
+!src/main/webapp/resources/node_modules/todomvc-common/base.css
